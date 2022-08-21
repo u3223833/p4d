@@ -8,11 +8,11 @@ Once you have downloaded all the file you can open the week4.html, week5.html an
 
 Don't forget to edit this README.md file as specified in the assignment notes.
 
-To submit, simply zip your assignment1 folder a d submit the zipfile.  Instructions on creating a zip file on Mac and PC is available on the unit web site.
+To submit, simply zip your assignment1 folder and submit the zipfile.  Instructions on creating a zip file on Mac and PC is available on the unit web site.
 
 ## Cloning the Repo from a Terminal
 
 From a terminal: 
 
-`git clone https://github.com/sminton/p4d assignment1`
+`git clone https://github.com/jacksonpost/p4d assignment-2`
 
