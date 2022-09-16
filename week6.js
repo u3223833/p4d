@@ -3,8 +3,6 @@
 var bubbles = [];
   totalBubbles = 80;
 
-}
-
 var backgroundColor = " #E91E63";
 
 function setup() {
